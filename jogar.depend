@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1513015920 source:c:\users\dennys pc\documents\programas\jogar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+	"jogo.h"
+
+1513015727 c:\users\dennys pc\documents\programas\jogar\ranking.h
+
+1513096999 c:\users\dennys pc\documents\programas\jogar\menu.h
+
+1513013549 source:c:\users\dennys pc\documents\programas\jogar\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513097005 source:c:\users\dennys pc\documents\programas\jogar\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"jogo.h"
+
+1513098653 source:c:\users\dennys pc\documents\programas\jogar\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+
+1513096999 c:\users\dennys pc\documents\programas\jogar\jogo.h
+
+1513015920 source:c:\users\dennys pc\desktop\breakout\jogar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+	"jogo.h"
+
+1513015727 c:\users\dennys pc\desktop\breakout\jogar\ranking.h
+
+1513096999 c:\users\dennys pc\desktop\breakout\jogar\menu.h
+
+1513096999 c:\users\dennys pc\desktop\breakout\jogar\jogo.h
+
+1513101524 source:c:\users\dennys pc\desktop\breakout\jogar\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"jogo.h"
+	"ranking.h"
+
+1513104119 source:c:\users\dennys pc\desktop\breakout\jogar\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+
+1513101269 source:c:\users\dennys pc\desktop\breakout\jogar\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+
